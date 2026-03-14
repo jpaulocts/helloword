@@ -1,7 +1,7 @@
 import styles from './HelloWorld.module.css';
 
 export default function Home() {
-  // Data atual para mostrar
+  // Current Date
   const currentDate = new Date();
   const formattedDate = currentDate.toLocaleDateString('en-US', {
     weekday: 'long',
