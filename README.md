@@ -46,5 +46,3 @@ Throughout this project, I found these resources invaluable:
 * [GitHub Guides](https://guides.github.com/) - Helpful for Git and GitHub workflows
 * [Vercel Deployment Docs](https://vercel.com/docs) - For future deployment considerations
 * [React Official Docs](https://react.dev/) - Understanding React concepts used in Next.js
-
-## Project Structure
